@@ -7,7 +7,16 @@
 </p>
 
 <h1 align="center">
-📚 Research Portfolio
+## 📂 Research Portfolio
+
+| Category | Description |
+|----------|-------------|
+| 📖 Publications | Journal papers, conference papers, and technical articles |
+| 📄 White Papers | Enterprise AI, Platform Engineering, Cloud Architecture |
+| 📊 Datasets | Research datasets and benchmarks |
+| 🎤 Presentations | Conference talks and technical sessions |
+| 🧪 Research Projects | Active and completed research initiatives |
+| 📚 Reading Lists | Curated references and learning resources |
 </h1>
 
 <p align="center">
