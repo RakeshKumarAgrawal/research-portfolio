@@ -1,1 +1,12 @@
+cff-version: 1.2.0
+title: "Research Portfolio"
+message: "If you use this repository, please cite it as follows."
+type: software
 
+authors:
+  - family-names: Agrawal
+    given-names: Rakesh Kumar
+
+repository-code: "https://github.com/Enterprise-Intelligence-Lab/research-portfolio"
+
+license: MIT
